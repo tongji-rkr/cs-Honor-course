@@ -1,0 +1,26 @@
+14.9s 1 start load data
+22.0s 2 start process data
+22.0s 3 Number of users = 6040 , Number of items = 3883
+22.0s 4 /opt/conda/lib/python3.7/site-packages/pandas/util/_decorators.py:311: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+22.0s 5 return func(*args, **kwargs)
+24.2s 6 iter :0| loss :41.0644
+26.8s 7 iter :10| loss :0.9337
+29.5s 8 iter :20| loss :0.5788
+32.2s 9 iter :30| loss :0.4299
+34.8s 10 iter :40| loss :0.3412
+37.5s 11 iter :50| loss :0.2794
+40.2s 12 iter :60| loss :0.2326
+42.9s 13 iter :70| loss :0.1953
+45.6s 14 iter :80| loss :0.1647
+48.3s 15 iter :90| loss :0.1394
+50.9s 16 iter :100| loss :0.1182
+53.6s 17 iter :110| loss :0.1004
+56.3s 18 iter :120| loss :0.0856
+59.0s 19 iter :130| loss :0.0732
+61.6s 20 iter :140| loss :0.0628
+64.3s 21 iter :150| loss :0.0542
+67.0s 22 iter :160| loss :0.0469
+69.7s 23 iter :170| loss :0.0409
+72.4s 24 iter :180| loss :0.0357
+75.0s 25 iter :190| loss :0.0314
+77.3s 26 test mae :1.3045 test rmse :1.6949

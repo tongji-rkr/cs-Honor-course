@@ -1,0 +1,261 @@
+13.4s 1 start load data
+13.4s 2 /opt/conda/lib/python3.7/site-packages/pandas/util/_decorators.py:311: ParserWarning: Falling back to the 'python' engine because the 'c' engine does not support regex separators (separators > 1 char and different from '\s+' are interpreted as regex); you can avoid this warning by specifying engine='python'.
+13.4s 3 return func(*args, **kwargs)
+20.6s 4 start process data
+25.6s 5 start train
+30.3s 6 [Iteration 1/15] train mae: 0.8124|train rmse: 0.9890|test mae: 0.8422|test rmse: 1.0250
+34.9s 7 [Iteration 2/15] train mae: 0.7438|train rmse: 0.9079|test mae: 0.7747|test rmse: 0.9474
+39.5s 8 [Iteration 3/15] train mae: 0.7018|train rmse: 0.8619|test mae: 0.7394|test rmse: 0.9106
+44.6s 9 [Iteration 4/15] train mae: 0.6819|train rmse: 0.8404|test mae: 0.7228|test rmse: 0.8938
+49.3s 10 [Iteration 5/15] train mae: 0.6697|train rmse: 0.8275|test mae: 0.7129|test rmse: 0.8840
+53.9s 11 [Iteration 6/15] train mae: 0.6613|train rmse: 0.8188|test mae: 0.7062|test rmse: 0.8775
+58.5s 12 [Iteration 7/15] train mae: 0.6553|train rmse: 0.8126|test mae: 0.7014|test rmse: 0.8730
+63.1s 13 [Iteration 8/15] train mae: 0.6507|train rmse: 0.8080|test mae: 0.6978|test rmse: 0.8697
+67.7s 14 [Iteration 9/15] train mae: 0.6473|train rmse: 0.8046|test mae: 0.6951|test rmse: 0.8672
+72.3s 15 [Iteration 10/15] train mae: 0.6446|train rmse: 0.8019|test mae: 0.6929|test rmse: 0.8653
+77.4s 16 [Iteration 11/15] train mae: 0.6424|train rmse: 0.7999|test mae: 0.6912|test rmse: 0.8638
+82.2s 17 [Iteration 12/15] train mae: 0.6407|train rmse: 0.7982|test mae: 0.6898|test rmse: 0.8626
+86.8s 18 [Iteration 13/15] train mae: 0.6393|train rmse: 0.7969|test mae: 0.6887|test rmse: 0.8616
+91.4s 19 [Iteration 14/15] train mae: 0.6381|train rmse: 0.7958|test mae: 0.6877|test rmse: 0.8608
+95.9s 20 [Iteration 15/15] train mae: 0.6371|train rmse: 0.7949|test mae: 0.6869|test rmse: 0.8601
+96.5s 21 mae :0.6868903406798436 rmse :0.8601316507189333
+97.1s 22 start train
+100.1s 23 [Iteration 1/10] train mae: 0.7982|train rmse: 0.9795|test mae: 0.8071|test rmse: 0.9896
+103.1s 24 [Iteration 2/10] train mae: 0.7688|train rmse: 0.9448|test mae: 0.7769|test rmse: 0.9544
+106.2s 25 [Iteration 3/10] train mae: 0.7583|train rmse: 0.9347|test mae: 0.7663|test rmse: 0.9443
+109.1s 26 [Iteration 4/10] train mae: 0.7512|train rmse: 0.9283|test mae: 0.7592|test rmse: 0.9380
+112.0s 27 [Iteration 5/10] train mae: 0.7461|train rmse: 0.9239|test mae: 0.7541|test rmse: 0.9335
+114.9s 28 [Iteration 6/10] train mae: 0.7423|train rmse: 0.9206|test mae: 0.7503|test rmse: 0.9303
+117.8s 29 [Iteration 7/10] train mae: 0.7393|train rmse: 0.9182|test mae: 0.7473|test rmse: 0.9278
+120.7s 30 [Iteration 8/10] train mae: 0.7370|train rmse: 0.9163|test mae: 0.7450|test rmse: 0.9259
+123.7s 31 [Iteration 9/10] train mae: 0.7352|train rmse: 0.9148|test mae: 0.7432|test rmse: 0.9245
+126.6s 32 [Iteration 10/10] train mae: 0.7337|train rmse: 0.9136|test mae: 0.7417|test rmse: 0.9233
+127.4s 33 k =1 mae :0.7416672254340588 rmse :0.9232785749330779
+127.4s 34 start train
+130.3s 35 [Iteration 1/10] train mae: 0.7990|train rmse: 0.9801|test mae: 0.8093|test rmse: 0.9919
+133.2s 36 [Iteration 2/10] train mae: 0.7672|train rmse: 0.9423|test mae: 0.7773|test rmse: 0.9546
+136.2s 37 [Iteration 3/10] train mae: 0.7513|train rmse: 0.9259|test mae: 0.7628|test rmse: 0.9403
+139.1s 38 [Iteration 4/10] train mae: 0.7363|train rmse: 0.9107|test mae: 0.7489|test rmse: 0.9266
+142.0s 39 [Iteration 5/10] train mae: 0.7248|train rmse: 0.8990|test mae: 0.7376|test rmse: 0.9153
+144.9s 40 [Iteration 6/10] train mae: 0.7161|train rmse: 0.8900|test mae: 0.7291|test rmse: 0.9068
+147.8s 41 [Iteration 7/10] train mae: 0.7108|train rmse: 0.8846|test mae: 0.7239|test rmse: 0.9016
+150.7s 42 [Iteration 8/10] train mae: 0.7077|train rmse: 0.8817|test mae: 0.7209|test rmse: 0.8988
+153.6s 43 [Iteration 9/10] train mae: 0.7057|train rmse: 0.8800|test mae: 0.7189|test rmse: 0.8971
+156.5s 44 [Iteration 10/10] train mae: 0.7042|train rmse: 0.8788|test mae: 0.7174|test rmse: 0.8958
+157.3s 45 k =2 mae :0.7173658720905058 rmse :0.8958304478571605
+157.3s 46 start train
+160.3s 47 [Iteration 1/10] train mae: 0.7980|train rmse: 0.9785|test mae: 0.8096|test rmse: 0.9921
+163.2s 48 [Iteration 2/10] train mae: 0.7614|train rmse: 0.9348|test mae: 0.7740|test rmse: 0.9505
+166.1s 49 [Iteration 3/10] train mae: 0.7320|train rmse: 0.9031|test mae: 0.7479|test rmse: 0.9235
+169.0s 50 [Iteration 4/10] train mae: 0.7166|train rmse: 0.8870|test mae: 0.7336|test rmse: 0.9091
+172.0s 51 [Iteration 5/10] train mae: 0.7082|train rmse: 0.8784|test mae: 0.7255|test rmse: 0.9011
+174.8s 52 [Iteration 6/10] train mae: 0.7024|train rmse: 0.8727|test mae: 0.7200|test rmse: 0.8957
+177.7s 53 [Iteration 7/10] train mae: 0.6983|train rmse: 0.8687|test mae: 0.7161|test rmse: 0.8919
+180.7s 54 [Iteration 8/10] train mae: 0.6953|train rmse: 0.8658|test mae: 0.7131|test rmse: 0.8892
+183.6s 55 [Iteration 9/10] train mae: 0.6930|train rmse: 0.8638|test mae: 0.7108|test rmse: 0.8872
+186.5s 56 [Iteration 10/10] train mae: 0.6912|train rmse: 0.8622|test mae: 0.7091|test rmse: 0.8856
+187.3s 57 k =3 mae :0.7090868338688076 rmse :0.8856222603236825
+187.3s 58 start train
+190.6s 59 [Iteration 1/10] train mae: 0.7997|train rmse: 0.9802|test mae: 0.8127|test rmse: 0.9955
+193.7s 60 [Iteration 2/10] train mae: 0.7623|train rmse: 0.9353|test mae: 0.7759|test rmse: 0.9526
+196.9s 61 [Iteration 3/10] train mae: 0.7291|train rmse: 0.8988|test mae: 0.7468|test rmse: 0.9221
+200.1s 62 [Iteration 4/10] train mae: 0.7098|train rmse: 0.8781|test mae: 0.7298|test rmse: 0.9045
+203.2s 63 [Iteration 5/10] train mae: 0.6998|train rmse: 0.8676|test mae: 0.7207|test rmse: 0.8951
+206.4s 64 [Iteration 6/10] train mae: 0.6937|train rmse: 0.8616|test mae: 0.7149|test rmse: 0.8895
+209.5s 65 [Iteration 7/10] train mae: 0.6897|train rmse: 0.8578|test mae: 0.7110|test rmse: 0.8858
+212.7s 66 [Iteration 8/10] train mae: 0.6869|train rmse: 0.8552|test mae: 0.7082|test rmse: 0.8833
+215.9s 67 [Iteration 9/10] train mae: 0.6847|train rmse: 0.8532|test mae: 0.7060|test rmse: 0.8814
+219.0s 68 [Iteration 10/10] train mae: 0.6830|train rmse: 0.8517|test mae: 0.7043|test rmse: 0.8799
+219.9s 69 k =4 mae :0.704284914576743 rmse :0.8798761004080696
+219.9s 70 start train
+223.4s 71 [Iteration 1/10] train mae: 0.7997|train rmse: 0.9796|test mae: 0.8139|test rmse: 0.9963
+226.9s 72 [Iteration 2/10] train mae: 0.7539|train rmse: 0.9249|test mae: 0.7698|test rmse: 0.9451
+230.3s 73 [Iteration 3/10] train mae: 0.7176|train rmse: 0.8851|test mae: 0.7390|test rmse: 0.9129
+233.9s 74 [Iteration 4/10] train mae: 0.7022|train rmse: 0.8687|test mae: 0.7258|test rmse: 0.8993
+237.3s 75 [Iteration 5/10] train mae: 0.6936|train rmse: 0.8598|test mae: 0.7179|test rmse: 0.8916
+240.8s 76 [Iteration 6/10] train mae: 0.6878|train rmse: 0.8541|test mae: 0.7125|test rmse: 0.8864
+244.3s 77 [Iteration 7/10] train mae: 0.6837|train rmse: 0.8501|test mae: 0.7084|test rmse: 0.8826
+247.8s 78 [Iteration 8/10] train mae: 0.6805|train rmse: 0.8472|test mae: 0.7053|test rmse: 0.8797
+251.3s 79 [Iteration 9/10] train mae: 0.6780|train rmse: 0.8449|test mae: 0.7029|test rmse: 0.8775
+254.7s 80 [Iteration 10/10] train mae: 0.6761|train rmse: 0.8432|test mae: 0.7009|test rmse: 0.8758
+255.5s 81 k =5 mae :0.7009116719984985 rmse :0.875837558325383
+255.5s 82 start train
+259.2s 83 [Iteration 1/10] train mae: 0.8001|train rmse: 0.9798|test mae: 0.8157|test rmse: 0.9982
+262.7s 84 [Iteration 2/10] train mae: 0.7523|train rmse: 0.9226|test mae: 0.7694|test rmse: 0.9445
+266.4s 85 [Iteration 3/10] train mae: 0.7198|train rmse: 0.8872|test mae: 0.7417|test rmse: 0.9159
+270.2s 86 [Iteration 4/10] train mae: 0.7028|train rmse: 0.8688|test mae: 0.7274|test rmse: 0.9013
+273.8s 87 [Iteration 5/10] train mae: 0.6918|train rmse: 0.8571|test mae: 0.7180|test rmse: 0.8918
+277.4s 88 [Iteration 6/10] train mae: 0.6848|train rmse: 0.8500|test mae: 0.7117|test rmse: 0.8856
+281.0s 89 [Iteration 7/10] train mae: 0.6801|train rmse: 0.8453|test mae: 0.7073|test rmse: 0.8814
+284.6s 90 [Iteration 8/10] train mae: 0.6767|train rmse: 0.8421|test mae: 0.7041|test rmse: 0.8784
+288.2s 91 [Iteration 9/10] train mae: 0.6741|train rmse: 0.8397|test mae: 0.7016|test rmse: 0.8761
+291.8s 92 [Iteration 10/10] train mae: 0.6720|train rmse: 0.8378|test mae: 0.6997|test rmse: 0.8743
+292.6s 93 k =6 mae :0.6996545932609812 rmse :0.8743041660127793
+292.6s 94 start train
+296.4s 95 [Iteration 1/10] train mae: 0.8016|train rmse: 0.9811|test mae: 0.8181|test rmse: 1.0007
+300.1s 96 [Iteration 2/10] train mae: 0.7513|train rmse: 0.9209|test mae: 0.7697|test rmse: 0.9444
+303.9s 97 [Iteration 3/10] train mae: 0.7145|train rmse: 0.8804|test mae: 0.7386|test rmse: 0.9118
+307.6s 98 [Iteration 4/10] train mae: 0.6975|train rmse: 0.8621|test mae: 0.7244|test rmse: 0.8973
+311.3s 99 [Iteration 5/10] train mae: 0.6869|train rmse: 0.8509|test mae: 0.7154|test rmse: 0.8884
+315.0s 100 [Iteration 6/10] train mae: 0.6794|train rmse: 0.8430|test mae: 0.7089|test rmse: 0.8820
+318.8s 101 [Iteration 7/10] train mae: 0.6738|train rmse: 0.8373|test mae: 0.7039|test rmse: 0.8772
+322.5s 102 [Iteration 8/10] train mae: 0.6698|train rmse: 0.8334|test mae: 0.7003|test rmse: 0.8737
+326.1s 103 [Iteration 9/10] train mae: 0.6670|train rmse: 0.8307|test mae: 0.6976|test rmse: 0.8712
+329.8s 104 [Iteration 10/10] train mae: 0.6650|train rmse: 0.8289|test mae: 0.6957|test rmse: 0.8694
+330.6s 105 k =7 mae :0.6956851490241449 rmse :0.8694421371093084
+330.6s 106 start train
+334.6s 107 [Iteration 1/10] train mae: 0.8014|train rmse: 0.9807|test mae: 0.8193|test rmse: 1.0021
+338.4s 108 [Iteration 2/10] train mae: 0.7541|train rmse: 0.9240|test mae: 0.7736|test rmse: 0.9488
+342.3s 109 [Iteration 3/10] train mae: 0.7134|train rmse: 0.8787|test mae: 0.7393|test rmse: 0.9123
+346.1s 110 [Iteration 4/10] train mae: 0.6945|train rmse: 0.8581|test mae: 0.7235|test rmse: 0.8961
+350.0s 111 [Iteration 5/10] train mae: 0.6832|train rmse: 0.8461|test mae: 0.7140|test rmse: 0.8866
+353.8s 112 [Iteration 6/10] train mae: 0.6756|train rmse: 0.8382|test mae: 0.7075|test rmse: 0.8801
+357.7s 113 [Iteration 7/10] train mae: 0.6703|train rmse: 0.8328|test mae: 0.7027|test rmse: 0.8755
+361.5s 114 [Iteration 8/10] train mae: 0.6666|train rmse: 0.8292|test mae: 0.6993|test rmse: 0.8723
+365.4s 115 [Iteration 9/10] train mae: 0.6638|train rmse: 0.8266|test mae: 0.6968|test rmse: 0.8699
+369.6s 116 [Iteration 10/10] train mae: 0.6618|train rmse: 0.8247|test mae: 0.6948|test rmse: 0.8682
+370.4s 117 k =8 mae :0.6948337182789545 rmse :0.8682234114021995
+370.4s 118 start train
+374.4s 119 [Iteration 1/10] train mae: 0.8032|train rmse: 0.9821|test mae: 0.8221|test rmse: 1.0048
+378.4s 120 [Iteration 2/10] train mae: 0.7535|train rmse: 0.9228|test mae: 0.7739|test rmse: 0.9487
+382.3s 121 [Iteration 3/10] train mae: 0.7126|train rmse: 0.8775|test mae: 0.7395|test rmse: 0.9126
+386.2s 122 [Iteration 4/10] train mae: 0.6942|train rmse: 0.8575|test mae: 0.7243|test rmse: 0.8968
+390.1s 123 [Iteration 5/10] train mae: 0.6823|train rmse: 0.8447|test mae: 0.7143|test rmse: 0.8868
+394.0s 124 [Iteration 6/10] train mae: 0.6743|train rmse: 0.8364|test mae: 0.7076|test rmse: 0.8802
+397.9s 125 [Iteration 7/10] train mae: 0.6688|train rmse: 0.8308|test mae: 0.7028|test rmse: 0.8757
+402.3s 126 [Iteration 8/10] train mae: 0.6649|train rmse: 0.8269|test mae: 0.6993|test rmse: 0.8724
+406.2s 127 [Iteration 9/10] train mae: 0.6619|train rmse: 0.8240|test mae: 0.6967|test rmse: 0.8699
+410.1s 128 [Iteration 10/10] train mae: 0.6596|train rmse: 0.8218|test mae: 0.6946|test rmse: 0.8680
+410.9s 129 k =9 mae :0.6945736595781977 rmse :0.8680190922487522
+410.9s 130 start train
+415.2s 131 [Iteration 1/10] train mae: 0.8030|train rmse: 0.9815|test mae: 0.8231|test rmse: 1.0059
+419.2s 132 [Iteration 2/10] train mae: 0.7493|train rmse: 0.9174|test mae: 0.7715|test rmse: 0.9460
+423.3s 133 [Iteration 3/10] train mae: 0.7112|train rmse: 0.8755|test mae: 0.7395|test rmse: 0.9123
+427.3s 134 [Iteration 4/10] train mae: 0.6926|train rmse: 0.8553|test mae: 0.7240|test rmse: 0.8963
+431.4s 135 [Iteration 5/10] train mae: 0.6807|train rmse: 0.8426|test mae: 0.7141|test rmse: 0.8864
+435.7s 136 [Iteration 6/10] train mae: 0.6728|train rmse: 0.8343|test mae: 0.7074|test rmse: 0.8799
+439.8s 137 [Iteration 7/10] train mae: 0.6673|train rmse: 0.8287|test mae: 0.7027|test rmse: 0.8754
+444.0s 138 [Iteration 8/10] train mae: 0.6633|train rmse: 0.8248|test mae: 0.6993|test rmse: 0.8722
+448.1s 139 [Iteration 9/10] train mae: 0.6603|train rmse: 0.8218|test mae: 0.6967|test rmse: 0.8698
+452.1s 140 [Iteration 10/10] train mae: 0.6579|train rmse: 0.8195|test mae: 0.6946|test rmse: 0.8678
+453.0s 141 k =10 mae :0.6946204348263361 rmse :0.8678432815509236
+453.0s 142 start train
+457.1s 143 [Iteration 1/10] train mae: 0.8064|train rmse: 0.9853|test mae: 0.8273|test rmse: 1.0106
+461.2s 144 [Iteration 2/10] train mae: 0.7559|train rmse: 0.9247|test mae: 0.7780|test rmse: 0.9529
+465.5s 145 [Iteration 3/10] train mae: 0.7121|train rmse: 0.8760|test mae: 0.7413|test rmse: 0.9140
+469.6s 146 [Iteration 4/10] train mae: 0.6917|train rmse: 0.8538|test mae: 0.7245|test rmse: 0.8966
+473.7s 147 [Iteration 5/10] train mae: 0.6791|train rmse: 0.8403|test mae: 0.7142|test rmse: 0.8862
+477.8s 148 [Iteration 6/10] train mae: 0.6705|train rmse: 0.8311|test mae: 0.7071|test rmse: 0.8792
+482.0s 149 [Iteration 7/10] train mae: 0.6646|train rmse: 0.8251|test mae: 0.7021|test rmse: 0.8744
+486.2s 150 [Iteration 8/10] train mae: 0.6604|train rmse: 0.8209|test mae: 0.6985|test rmse: 0.8710
+490.3s 151 [Iteration 9/10] train mae: 0.6573|train rmse: 0.8179|test mae: 0.6958|test rmse: 0.8686
+494.3s 152 [Iteration 10/10] train mae: 0.6550|train rmse: 0.8156|test mae: 0.6937|test rmse: 0.8667
+495.2s 153 k =11 mae :0.6937212294739069 rmse :0.8666976369289588
+495.2s 154 start train
+499.8s 155 [Iteration 1/10] train mae: 0.8055|train rmse: 0.9840|test mae: 0.8275|test rmse: 1.0103
+504.0s 156 [Iteration 2/10] train mae: 0.7564|train rmse: 0.9254|test mae: 0.7795|test rmse: 0.9548
+508.1s 157 [Iteration 3/10] train mae: 0.7128|train rmse: 0.8767|test mae: 0.7432|test rmse: 0.9158
+512.3s 158 [Iteration 4/10] train mae: 0.6902|train rmse: 0.8521|test mae: 0.7242|test rmse: 0.8962
+516.4s 159 [Iteration 5/10] train mae: 0.6785|train rmse: 0.8397|test mae: 0.7144|test rmse: 0.8863
+520.5s 160 [Iteration 6/10] train mae: 0.6704|train rmse: 0.8312|test mae: 0.7077|test rmse: 0.8798
+524.7s 161 [Iteration 7/10] train mae: 0.6642|train rmse: 0.8246|test mae: 0.7026|test rmse: 0.8749
+528.9s 162 [Iteration 8/10] train mae: 0.6594|train rmse: 0.8196|test mae: 0.6987|test rmse: 0.8711
+533.3s 163 [Iteration 9/10] train mae: 0.6558|train rmse: 0.8160|test mae: 0.6957|test rmse: 0.8683
+537.4s 164 [Iteration 10/10] train mae: 0.6532|train rmse: 0.8134|test mae: 0.6934|test rmse: 0.8662
+538.3s 165 k =12 mae :0.6934272209864899 rmse :0.866204856123426
+538.3s 166 start train
+542.7s 167 [Iteration 1/10] train mae: 0.8069|train rmse: 0.9859|test mae: 0.8302|test rmse: 1.0139
+546.8s 168 [Iteration 2/10] train mae: 0.7494|train rmse: 0.9165|test mae: 0.7741|test rmse: 0.9483
+551.0s 169 [Iteration 3/10] train mae: 0.7080|train rmse: 0.8709|test mae: 0.7394|test rmse: 0.9119
+555.3s 170 [Iteration 4/10] train mae: 0.6883|train rmse: 0.8495|test mae: 0.7233|test rmse: 0.8953
+559.5s 171 [Iteration 5/10] train mae: 0.6756|train rmse: 0.8358|test mae: 0.7131|test rmse: 0.8850
+563.9s 172 [Iteration 6/10] train mae: 0.6672|train rmse: 0.8269|test mae: 0.7063|test rmse: 0.8782
+568.1s 173 [Iteration 7/10] train mae: 0.6613|train rmse: 0.8209|test mae: 0.7015|test rmse: 0.8736
+572.3s 174 [Iteration 8/10] train mae: 0.6571|train rmse: 0.8166|test mae: 0.6979|test rmse: 0.8703
+576.6s 175 [Iteration 9/10] train mae: 0.6540|train rmse: 0.8135|test mae: 0.6953|test rmse: 0.8679
+580.8s 176 [Iteration 10/10] train mae: 0.6515|train rmse: 0.8112|test mae: 0.6932|test rmse: 0.8660
+581.6s 177 k =13 mae :0.6931826879847169 rmse :0.8659878244902816
+581.6s 178 start train
+586.0s 179 [Iteration 1/10] train mae: 0.8070|train rmse: 0.9850|test mae: 0.8313|test rmse: 1.0146
+590.2s 180 [Iteration 2/10] train mae: 0.7495|train rmse: 0.9161|test mae: 0.7757|test rmse: 0.9497
+594.6s 181 [Iteration 3/10] train mae: 0.7061|train rmse: 0.8682|test mae: 0.7396|test rmse: 0.9116
+599.1s 182 [Iteration 4/10] train mae: 0.6853|train rmse: 0.8454|test mae: 0.7225|test rmse: 0.8939
+603.4s 183 [Iteration 5/10] train mae: 0.6732|train rmse: 0.8325|test mae: 0.7124|test rmse: 0.8838
+607.7s 184 [Iteration 6/10] train mae: 0.6653|train rmse: 0.8243|test mae: 0.7059|test rmse: 0.8775
+612.0s 185 [Iteration 7/10] train mae: 0.6598|train rmse: 0.8188|test mae: 0.7013|test rmse: 0.8732
+616.2s 186 [Iteration 8/10] train mae: 0.6559|train rmse: 0.8149|test mae: 0.6980|test rmse: 0.8702
+620.5s 187 [Iteration 9/10] train mae: 0.6528|train rmse: 0.8120|test mae: 0.6954|test rmse: 0.8679
+624.7s 188 [Iteration 10/10] train mae: 0.6505|train rmse: 0.8097|test mae: 0.6934|test rmse: 0.8662
+625.6s 189 k =14 mae :0.6933828193623359 rmse :0.8661597857890466
+625.6s 190 start train
+630.4s 191 [Iteration 1/10] train mae: 0.8081|train rmse: 0.9865|test mae: 0.8336|test rmse: 1.0172
+634.7s 192 [Iteration 2/10] train mae: 0.7420|train rmse: 0.9078|test mae: 0.7695|test rmse: 0.9429
+639.1s 193 [Iteration 3/10] train mae: 0.7043|train rmse: 0.8661|test mae: 0.7381|test rmse: 0.9098
+643.4s 194 [Iteration 4/10] train mae: 0.6841|train rmse: 0.8440|test mae: 0.7218|test rmse: 0.8930
+647.8s 195 [Iteration 5/10] train mae: 0.6721|train rmse: 0.8311|test mae: 0.7119|test rmse: 0.8833
+652.1s 196 [Iteration 6/10] train mae: 0.6642|train rmse: 0.8229|test mae: 0.7055|test rmse: 0.8770
+656.4s 197 [Iteration 7/10] train mae: 0.6586|train rmse: 0.8173|test mae: 0.7009|test rmse: 0.8728
+660.8s 198 [Iteration 8/10] train mae: 0.6546|train rmse: 0.8132|test mae: 0.6975|test rmse: 0.8697
+665.2s 199 [Iteration 9/10] train mae: 0.6515|train rmse: 0.8102|test mae: 0.6950|test rmse: 0.8673
+669.5s 200 [Iteration 10/10] train mae: 0.6490|train rmse: 0.8079|test mae: 0.6929|test rmse: 0.8656
+670.3s 201 k =15 mae :0.6929376781571625 rmse :0.8655504364944898
+670.3s 202 start train
+674.7s 203 [Iteration 1/10] train mae: 0.8087|train rmse: 0.9859|test mae: 0.8347|test rmse: 1.0177
+679.0s 204 [Iteration 2/10] train mae: 0.7462|train rmse: 0.9119|test mae: 0.7739|test rmse: 0.9474
+683.2s 205 [Iteration 3/10] train mae: 0.7057|train rmse: 0.8674|test mae: 0.7403|test rmse: 0.9121
+687.6s 206 [Iteration 4/10] train mae: 0.6845|train rmse: 0.8441|test mae: 0.7231|test rmse: 0.8942
+691.9s 207 [Iteration 5/10] train mae: 0.6715|train rmse: 0.8302|test mae: 0.7125|test rmse: 0.8836
+696.2s 208 [Iteration 6/10] train mae: 0.6632|train rmse: 0.8215|test mae: 0.7057|test rmse: 0.8770
+700.9s 209 [Iteration 7/10] train mae: 0.6575|train rmse: 0.8157|test mae: 0.7010|test rmse: 0.8726
+705.2s 210 [Iteration 8/10] train mae: 0.6534|train rmse: 0.8116|test mae: 0.6976|test rmse: 0.8694
+709.5s 211 [Iteration 9/10] train mae: 0.6502|train rmse: 0.8085|test mae: 0.6949|test rmse: 0.8671
+713.9s 212 [Iteration 10/10] train mae: 0.6477|train rmse: 0.8062|test mae: 0.6928|test rmse: 0.8653
+714.7s 213 k =16 mae :0.692842930137252 rmse :0.8652543865632679
+714.7s 214 start train
+719.3s 215 [Iteration 1/10] train mae: 0.8098|train rmse: 0.9876|test mae: 0.8372|test rmse: 1.0207
+723.7s 216 [Iteration 2/10] train mae: 0.7469|train rmse: 0.9126|test mae: 0.7753|test rmse: 0.9490
+728.1s 217 [Iteration 3/10] train mae: 0.7057|train rmse: 0.8673|test mae: 0.7406|test rmse: 0.9125
+732.8s 218 [Iteration 4/10] train mae: 0.6855|train rmse: 0.8453|test mae: 0.7240|test rmse: 0.8955
+737.1s 219 [Iteration 5/10] train mae: 0.6724|train rmse: 0.8312|test mae: 0.7134|test rmse: 0.8849
+741.5s 220 [Iteration 6/10] train mae: 0.6636|train rmse: 0.8219|test mae: 0.7064|test rmse: 0.8779
+745.8s 221 [Iteration 7/10] train mae: 0.6575|train rmse: 0.8157|test mae: 0.7015|test rmse: 0.8733
+750.2s 222 [Iteration 8/10] train mae: 0.6532|train rmse: 0.8113|test mae: 0.6979|test rmse: 0.8700
+754.6s 223 [Iteration 9/10] train mae: 0.6499|train rmse: 0.8081|test mae: 0.6952|test rmse: 0.8676
+758.9s 224 [Iteration 10/10] train mae: 0.6473|train rmse: 0.8056|test mae: 0.6931|test rmse: 0.8657
+759.8s 225 k =17 mae :0.6931105329131669 rmse :0.8656962715501366
+759.8s 226 start train
+765.3s 227 [Iteration 1/10] train mae: 0.8123|train rmse: 0.9894|test mae: 0.8407|test rmse: 1.0237
+769.8s 228 [Iteration 2/10] train mae: 0.7442|train rmse: 0.9090|test mae: 0.7737|test rmse: 0.9469
+774.4s 229 [Iteration 3/10] train mae: 0.7042|train rmse: 0.8650|test mae: 0.7400|test rmse: 0.9116
+778.9s 230 [Iteration 4/10] train mae: 0.6840|train rmse: 0.8431|test mae: 0.7235|test rmse: 0.8947
+783.4s 231 [Iteration 5/10] train mae: 0.6715|train rmse: 0.8299|test mae: 0.7134|test rmse: 0.8847
+787.9s 232 [Iteration 6/10] train mae: 0.6631|train rmse: 0.8211|test mae: 0.7066|test rmse: 0.8781
+792.4s 233 [Iteration 7/10] train mae: 0.6570|train rmse: 0.8149|test mae: 0.7017|test rmse: 0.8734
+797.8s 234 [Iteration 8/10] train mae: 0.6526|train rmse: 0.8104|test mae: 0.6981|test rmse: 0.8700
+802.3s 235 [Iteration 9/10] train mae: 0.6492|train rmse: 0.8071|test mae: 0.6953|test rmse: 0.8675
+806.8s 236 [Iteration 10/10] train mae: 0.6466|train rmse: 0.8046|test mae: 0.6932|test rmse: 0.8656
+807.7s 237 k =18 mae :0.6931839859340639 rmse :0.8655514587276574
+807.7s 238 start train
+812.3s 239 [Iteration 1/10] train mae: 0.8103|train rmse: 0.9874|test mae: 0.8394|test rmse: 1.0227
+816.9s 240 [Iteration 2/10] train mae: 0.7406|train rmse: 0.9049|test mae: 0.7715|test rmse: 0.9444
+821.4s 241 [Iteration 3/10] train mae: 0.7017|train rmse: 0.8620|test mae: 0.7392|test rmse: 0.9104
+825.9s 242 [Iteration 4/10] train mae: 0.6808|train rmse: 0.8392|test mae: 0.7222|test rmse: 0.8930
+830.7s 243 [Iteration 5/10] train mae: 0.6686|train rmse: 0.8263|test mae: 0.7122|test rmse: 0.8831
+835.2s 244 [Iteration 6/10] train mae: 0.6606|train rmse: 0.8181|test mae: 0.7057|test rmse: 0.8768
+839.8s 245 [Iteration 7/10] train mae: 0.6549|train rmse: 0.8123|test mae: 0.7011|test rmse: 0.8725
+844.4s 246 [Iteration 8/10] train mae: 0.6507|train rmse: 0.8081|test mae: 0.6976|test rmse: 0.8694
+849.0s 247 [Iteration 9/10] train mae: 0.6474|train rmse: 0.8049|test mae: 0.6950|test rmse: 0.8670
+853.6s 248 [Iteration 10/10] train mae: 0.6448|train rmse: 0.8024|test mae: 0.6929|test rmse: 0.8652
+854.4s 249 k =19 mae :0.6928673365598986 rmse :0.86521380539524
+854.4s 250 start train
+859.0s 251 [Iteration 1/10] train mae: 0.8117|train rmse: 0.9886|test mae: 0.8417|test rmse: 1.0247
+864.4s 252 [Iteration 2/10] train mae: 0.7438|train rmse: 0.9081|test mae: 0.7750|test rmse: 0.9481
+868.9s 253 [Iteration 3/10] train mae: 0.7035|train rmse: 0.8637|test mae: 0.7410|test rmse: 0.9124
+873.6s 254 [Iteration 4/10] train mae: 0.6818|train rmse: 0.8401|test mae: 0.7233|test rmse: 0.8941
+878.1s 255 [Iteration 5/10] train mae: 0.6687|train rmse: 0.8261|test mae: 0.7127|test rmse: 0.8835
+882.7s 256 [Iteration 6/10] train mae: 0.6603|train rmse: 0.8175|test mae: 0.7059|test rmse: 0.8769
+887.2s 257 [Iteration 7/10] train mae: 0.6545|train rmse: 0.8116|test mae: 0.7011|test rmse: 0.8724
+891.8s 258 [Iteration 8/10] train mae: 0.6502|train rmse: 0.8073|test mae: 0.6976|test rmse: 0.8692
+896.6s 259 [Iteration 9/10] train mae: 0.6469|train rmse: 0.8040|test mae: 0.6950|test rmse: 0.8669
+901.2s 260 [Iteration 10/10] train mae: 0.6443|train rmse: 0.8015|test mae: 0.6928|test rmse: 0.8650
+901.8s 261 k =20 mae :0.6928429768172915 rmse :0.8650180548923723
